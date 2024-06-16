@@ -1,0 +1,19 @@
+-State : 
+     - Modifiable:
+     - Dropdown:
+     - Hauteur : 80
+     - Largeur : 20
+     - FilterContient : []
+     - FilterContientPas: []
+-Progres : 
+     - ...
+
+________________
+
+-Sort : 
+      - State
+      - Progress
+
+-Group : 
+      - State
+      - Progress 
